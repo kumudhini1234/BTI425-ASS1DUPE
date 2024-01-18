@@ -1,0 +1,8 @@
+Ws0qjGMXfYFiaatC
+
+
+MONGODB_CONN_STRING = 'mongodb+srv://kumudhinireddicherla:<password>@cluster0.bb74pvo.mongodb.net/?retryWrites=true&w=majority'
+
+.env
+node_modules
+
